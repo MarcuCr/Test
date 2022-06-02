@@ -1,0 +1,16 @@
+---
+ name: Harta
+ description: Some description, please keep it in one line
+ authors:
+   -George Rosca
+   -Diana Pericica
+   -Marcu Cristian
+   -Agrigoroaie Marian
+   -Grosu Mihai
+ resources:
+   - https://github.com/george-r35/SCTP-PublicTransport-Tracker/blob/main/Harta/Harta.js
+   - https://github.com/george-r35/SCTP-PublicTransport-Tracker/blob/main/Harta/Harta.css
+ normalize_css: no
+ load_type: d
+ ...
+ 
